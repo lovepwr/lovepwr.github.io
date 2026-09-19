@@ -1,2 +1,6 @@
 include:
   - .well-known
+
+webrick:
+  mime_types:
+    pem: text/plain
